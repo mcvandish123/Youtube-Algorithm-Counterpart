@@ -1,0 +1,33 @@
+.side-header {
+    width: 80px;
+    position: fixed;
+    text-align: center;
+    font-size: 12px;
+    left: 0;
+    bottom: 0;
+    top: 56px;
+    cursor: pointer;
+
+}
+
+.choose {
+    margin-top: 20px;
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.choose:hover {
+    background-color: antiquewhite;
+}
+
+.iconic {
+    height: 35px;
+    width: 35px;
+    margin-bottom: 10px;
+    
+}
+
+
